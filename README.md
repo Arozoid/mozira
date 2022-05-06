@@ -1,8 +1,9 @@
 # Mozira
 
-**Mozira** is an optimizing Python module  
-that runs Python files with a little program  
-that reads the file then runs it in a special way.  
+**Mozira** is an optimized programming language  
+that was built to be speedy. It will try to compete  
+with rival languages like **C**, but it's going to  
+be made just for fun.
   
 ## When will it be released?
 
